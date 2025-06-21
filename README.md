@@ -40,7 +40,7 @@ Aura is a lightweight, personal voice assistant inspired by JARVIS from Iron Man
 
 Coming soon...
 
-## 🙋‍♀About the Developer
+## About the Developer
 
 Built with love by **Jenica A.**, an AIML student passionate about building her own JARVIS.
 
