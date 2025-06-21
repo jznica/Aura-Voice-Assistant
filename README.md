@@ -10,7 +10,7 @@ Aura is a lightweight, personal voice assistant inspired by JARVIS from Iron Man
 -  Responds with text-to-speech feedback
 -  Easy to customize and expand
 
-## 🛠️ Built With
+## Built With
 
 - Python 3
 - `speech_recognition`
